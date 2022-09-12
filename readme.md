@@ -73,4 +73,4 @@ http://127.0.0.1:3200/api/v1/list
 
 ## Author
 
-[Pranav108](https://github.com/Pranav108/)
+[Amanps2622](https://github.com/amanps2622/)
